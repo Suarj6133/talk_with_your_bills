@@ -1,0 +1,100 @@
+
+-- Text from bill_1.png--
+Invoice
+
+Your business name. 126 Industry Road, Auckland 1061. New Zealand
+
+BILL TO
+
+Your client
+
+75 Hamlin Road
+Auckland 1060
+New Zealand
+
+Garden
+
+e
+repairs
+Invoice No.: 2022006
+Issue date: 6/30/2022
+Oue date: 711412022
+
+Reference: 2022006
+Invoice No. Issue date Que date Total due (NZD)
+2022006 6/30/2022 7/14/2022 $100.00
+
+Description Quantity Unit price ($) Amount ($)
+
+Sample service 1 100.00 100.00
+
+Total (NZD): $100.00
+Issued by, signature:
+
+Gaiden Reytaiss
+email@yourbusinessname.co.nz
+
+Your business
+
+name
+
+126 Industry Road
+
+Auckland 1061
+
+New Zealand
+
+
+
+-- Text from bill_2.jpeg--
+TITOS LANE
+Contact No: 7972273079
+
+GSTIN-30ALCPR3982K1Z4
+09 December 2025 11:50 PM
+
+Dine In
+Bill No : 84
+KOT No: 123, 129, 132
+Table: Table-11 User: Bheems
+i.
+Item Qty = Rate ‘Total
+Kadhai Paneer 1 300 390
+Chicken Masala 1 310 316
+Butter Naan 3 60 180
+Steam Rice 1 100 100
+Lassi | 1 79 70
+Water Bottle
+1 20 20
+Cald Drink (300M) }
+
+eee 80 4
+Total: 9. a
+
+
+
+-- Text from bill_3.png--
+THE SPICE ROUTE
+Contact No 687643210
+GSTIN: 29ABCE 134F529
+18 April 2024 08:45 PM
+Dine In
+
+Bill No: 156
+Order Type: APP-007
+
+item Qty Rate =Total
+Garlic Naan 2 610 120
+Buicken Masala 2 310 180 |,
+Veg Biryani 1 200 100
+Lassi 1 70 70
+
+1 30 30
+Subsotal: “9 «RS 400.00
+aid by: UPI CGST (2.5%) : Rs10.00
+
+SGST (2.5%) : Rs 10.00
+Grand Total: Rs 420.00 __
+
+Thank You! | Powered by QuickBill v3.1
+
